@@ -221,7 +221,10 @@ main {
   margin-bottom: 40px; /* Add some margin to the bottom of the main content */
 }
 
-/* Optional: Ensure that additional projects have some spacing */
+#additionalProjects {
+    padding: 20px; /* Add padding to ensure there is space around the projects */
+}
+
 #additionalProjects article {
-  margin-top: 20px;
+    margin-top: 20px;
 }
