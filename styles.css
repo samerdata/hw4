@@ -213,7 +213,7 @@ footer a[href="#top"] {
 }
 footer {
   margin-top: 20px; 
-  padding: 20px; 
+  padding: 10px; 
   background-color: #0056b3; 
 }
 
@@ -222,7 +222,7 @@ main {
 }
 
 #additionalProjects {
-    padding: 20px; 
+    padding: 10px; 
 }
 
 #additionalProjects article {
