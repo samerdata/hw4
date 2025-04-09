@@ -46,7 +46,7 @@ if (showMoreBtn && additionalProjects) {
       <time datetime="2025-01-10">January 2025</time>
       <p>abstract and closed area service for pick up , delivery food + including  machine learning model to enhance your food evaluation stars.</p>
       <figure>
-        <img src="images/SKP.png" alt="SKP App Preview" width="600">
+        <img src="SKP.png" alt="SKP App Preview" width="600">
         <figcaption>SKP App Screenshot</figcaption>
       </figure>
       <p>
